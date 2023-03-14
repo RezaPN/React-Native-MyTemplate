@@ -1,5 +1,3 @@
-﻿# React-Native-MyTemplate
-
 # React Native Template with Navigation, Redux, Redux Saga, and Axios
 
 This is a template app for React Native that includes the following features:
